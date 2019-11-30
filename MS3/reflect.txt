@@ -1,0 +1,20 @@
+// Name:                                Pedro Zelada Souza
+// Seneca Student ID:                   116427188
+// Seneca email:						pzelada-souza@myseneca.ca
+// Date of completion:                  30-11-2019
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+
+-- Comments
+
+The wording in the project documentation was confusing, at best.
+
+I understand the need to let the students figure out how to approach a sollution, but the poor wording
+of the document, at times, made me waste more time trying to figure out what was the problem than
+trying to solve it.
+
+That being said, this is the best project I had to code since my first semester. It was challenging
+and filled with all concepts I've learned so far. Past projects had more copying and pasting code than
+I was happy with, but this one felt fresh.

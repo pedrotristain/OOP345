@@ -1,0 +1,46 @@
+// Name:						Pedro Zelada Souza
+// Seneca Student ID:			116427188
+// Seneca email:				pzelada-souza@myseneca.ca
+// Date of completion:			09-24-2019
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+
+
+- Learning Outcome:
+
+On this workshop, I learned how different concepts, that when applied, can have
+similar results with with vastly different response times and approaches.
+
+I learned about the difference in Copying a resource and Moving it in C++, where:
+
+- Copying a resource (through copying constructors or operators) creates a copy
+of said resource in memory, with the result being that twice the amount of memory
+is used for both objects (the original and the copy) and the response time is
+relatively slow.
+
+- Moving a resource (through move constructors or operators) changes the address
+reference of a resource, leaving the data intact. The result is that only 1 instance
+of said resource exists in memory and the response time is vastly superior to copying.
+Finally, the original object is emptied from memory, leaving only the resulting
+object with the old data.
+
+The difference in response time between Copying and Moving is due to the fact that
+Copying assigns extra resources in memory for the new copy and process every data
+in the old object to copy it to the new object. Moving consists of changing only
+the alias of the memory location, changing from the old object pointer to the new
+object pointer.
+
+
+- Quiz 02 Reflection:
+
+Question 3:
+
+- My Answer: C
+- Correct Answer: B
+
+Question 5:
+
+- My Answer: C
+- Correct Answer: A

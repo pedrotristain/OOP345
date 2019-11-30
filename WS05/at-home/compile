@@ -1,0 +1,7 @@
+#!/bin/bash
+if test -f "run"; then
+    rm run
+fi
+
+g++ *.cpp -Wall -std=c++17 -o run
+./run books.txt movies.txt missing_file.txt words.txt
