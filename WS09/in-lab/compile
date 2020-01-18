@@ -1,0 +1,7 @@
+#!/bin/bash
+if test -f "run"; then
+    rm run
+fi
+
+g++ *.cpp -Wall -std=c++17 -o run
+./run input.txt encoded.dat.txt K
