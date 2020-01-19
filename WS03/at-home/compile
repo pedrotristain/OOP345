@@ -1,7 +1,0 @@
-#!/bin/bash
-if test -f "run"; then
-    rm run
-fi
-
-g++ *.cpp -Wall -std=c++17 -g -o run
-./run Welcome to C++!
